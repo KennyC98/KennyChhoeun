@@ -33,7 +33,7 @@ body{
 h1 {
 	font-family: Nothing You Could Do;
 	text-align: center;
-	padding-top: 40px;
+	padding-top: 25px;
 	color: white;
 	font-size: 50px;
 }
@@ -54,6 +54,17 @@ p  {
 	text-align: center;
 	font-size: 25px;
 	color: white;
+}
+footer {
+    font-family: Architects Daughter;
+    color: white;
+}
+.merch {
+    font-family: Architects Daughter;
+    text-align: right;
+    font-size: 40px;
+    color: green;
+    margin-left: 50%;
 }
 .contacter {
 	font-family: Architects Daughter;
@@ -99,5 +110,5 @@ p  {
     height: 50px;
     border-radius: 50%;
     text-align: right;
-    margin-left: 50px;
+    margin-left: 55%;
 }
