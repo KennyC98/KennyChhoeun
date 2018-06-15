@@ -1,5 +1,5 @@
 .topnavigation {
-    background-color: #333;
+    background-color: black;
     overflow: hidden;
 }
 /* Style the links inside the navigation bar */
@@ -20,7 +20,7 @@
 }
 /* Add an active class to highlight the current page */
 .active {
-    background-color: #3fc3db;
+    background-color: #53C35B;
     color: white;
 }
 /* Hide the link that should open and close the topnav on small screens */
@@ -28,7 +28,7 @@
     display: none;
 }
 body{
-	background-color: #3a424f;
+	background-color: #2F2D2D;
 }
 h1 {
 	font-family: Nothing You Could Do;
