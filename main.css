@@ -1,16 +1,10 @@
-body, html{
-	background-color: #fbfbf0;
-    height: 100%;
-}
-
-}
 h2 {
     font-family: 'Major Mono Display', monospace;
     color: black;
     text-align: center;
 }
 p  {
-	font-family: Georgia;
+    font-family: Georgia;
     font-size: 20px;
     font-style: normal;
     text-align: center;
