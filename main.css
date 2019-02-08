@@ -4,6 +4,7 @@ body{
 h2 {
     font-family: 'Major Mono Display', monospace;
     color: black;
+    text-align: black;
 }
 p  {
 	font-family: Georgiaserif;
