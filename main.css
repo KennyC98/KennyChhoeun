@@ -1,14 +1,8 @@
 body, html{
-	background-color: white;
+	background-color: #fbfbf0;
     height: 100%;
 }
 
-.bg {
-    background-image: url("background");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 h2 {
     font-family: 'Major Mono Display', monospace;
