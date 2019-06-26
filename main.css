@@ -12,3 +12,12 @@ p  {
 h3 {
     font-family: 'Open Sans', arial, sans-serif;
 }   
+h1 {
+    font-family: 'Major Mono Display', monospace;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
+a {
+    font-family: 'Major Mono Display', arial, sans-serif;
+}   
