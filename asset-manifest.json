@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kennychhoeun.github.io/static/css/main.4dc87636.chunk.css",
+    "main.js": "/kennychhoeun.github.io/static/js/main.663cde87.chunk.js",
+    "main.js.map": "/kennychhoeun.github.io/static/js/main.663cde87.chunk.js.map",
+    "runtime-main.js": "/kennychhoeun.github.io/static/js/runtime-main.8c5e5409.js",
+    "runtime-main.js.map": "/kennychhoeun.github.io/static/js/runtime-main.8c5e5409.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/kennychhoeun.github.io/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ab35eb4e.chunk.js": "/kennychhoeun.github.io/static/js/2.ab35eb4e.chunk.js",
+    "static/js/2.ab35eb4e.chunk.js.map": "/kennychhoeun.github.io/static/js/2.ab35eb4e.chunk.js.map",
+    "static/js/3.1ad8b302.chunk.js": "/kennychhoeun.github.io/static/js/3.1ad8b302.chunk.js",
+    "static/js/3.1ad8b302.chunk.js.map": "/kennychhoeun.github.io/static/js/3.1ad8b302.chunk.js.map",
+    "index.html": "/kennychhoeun.github.io/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/kennychhoeun.github.io/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4dc87636.chunk.css.map": "/kennychhoeun.github.io/static/css/main.4dc87636.chunk.css.map",
+    "static/js/2.ab35eb4e.chunk.js.LICENSE.txt": "/kennychhoeun.github.io/static/js/2.ab35eb4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c5e5409.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ab35eb4e.chunk.js",
+    "static/css/main.4dc87636.chunk.css",
+    "static/js/main.663cde87.chunk.js"
+  ]
+}
