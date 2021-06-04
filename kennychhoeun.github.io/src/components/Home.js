@@ -1,12 +1,13 @@
 import { Button, ProgressBar, Image } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
+import avatar from '../files/IMG_5528.jpg'
 
 const Home = () => {
     return (
         <div className="home-container">
             <br></br>
             <h4>Welcome! Please feel free to read about my projects and be sure to check out my resume. Thank you!</h4>
-            <Image src="https://retailx.com/wp-content/uploads/2019/12/iStock-476085198-300x300.jpg" roundedCircle/>
+            <Image className='avatar' src={avatar} roundedCircle/>
 
             <h5>About</h5>
             <p>Hi, I'm Kenny. I am a Cal Poly Pomona C/O 2021 graduate.<br></br>

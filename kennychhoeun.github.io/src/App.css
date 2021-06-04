@@ -40,6 +40,12 @@ p {
 h5 {
   font-weight: bold !important;
 }
+
+.avatar {
+  width: 150px;
+  height: 120px;
+}
+
 .card-text {
   font-size: 15px !important;
 }
